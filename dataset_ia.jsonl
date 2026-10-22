@@ -1,0 +1,20 @@
+{
+    "messages": [
+        {
+            "role": "usuario",
+            "content": "¿Qué es un vector?"
+        },
+        {
+            "role": "asistente",
+            "content": "En IA, es una lista de números que representa el significado de un texto."
+        },
+        {
+            "role": "usuario",
+            "content": "Dame un ejemplo de embedding"
+        },
+        {
+            "role": "asistente",
+            "content": "El texto 'perro' podría ser [0.23, -0.45, 0.89]."
+        }
+    ]
+}
